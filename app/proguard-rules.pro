@@ -1,0 +1,3 @@
+-dontwarn kotlin.**
+-dontwarn org.jetbrains.**
+-keep class com.litelauncher.** { *; }
